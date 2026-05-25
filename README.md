@@ -6,6 +6,7 @@ two real-world datasets: US Medical Costs and Loan Approval Predictions.
 
 **Course:** CPS 4745 — Data Visualization, Fall 2024
 **Team:** Dahana Moz Ruiz & Samantha Gonzales — Kean University
+
 **Demo Login:** huang  
 **Demo Password:** dvproject
 
