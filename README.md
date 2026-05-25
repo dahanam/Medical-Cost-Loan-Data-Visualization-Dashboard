@@ -5,7 +5,7 @@ JavaScript, and Google Charts that allows users to explore and analyze
 two real-world datasets: US Medical Costs and Loan Approval Predictions.
 
 **Course:** CPS 4745 — Data Visualization, Fall 2024
-**Team:** Dahana Moz Ruiz & Samantha Gonzalez — Kean University
+**Team:** Dahana Moz Ruiz & Samantha Gonzales — Kean University
 
 ---
 
@@ -81,4 +81,4 @@ git clone https://github.com/dahanam/Medical-Cost-Loan-Data-Visualization-Dashbo
 
 ## Authors
 
-Dahana Moz Ruiz & Samantha Gonzalez — Kean University, Fall 2024
+Dahana Moz Ruiz & Samantha Gonzales — Kean University, Fall 2024
