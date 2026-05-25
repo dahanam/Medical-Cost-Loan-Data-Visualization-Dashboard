@@ -40,8 +40,8 @@ two real-world datasets: US Medical Costs and Loan Approval Predictions.
 - **Frontend:** HTML, CSS, JavaScript, Google Charts API, jQuery (AJAX)
 - **Backend:** PHP (session management, data fetching, routing)
 - **Data:** 
-  - [Loan Approval Prediction Dataset (Kaggle)](https://www.kaggle.com/)
-  - [Medical Cost Personal Dataset (Kaggle)](https://www.kaggle.com/)
+  - [Loan Approval Prediction Dataset (Kaggle)](https://www.kaggle.com/datasets/itshappy/ps4e9-original-data-loan-approval-prediction) 
+  - [Medical Cost Personal Dataset (Kaggle)](https://www.kaggle.com/datasets/satyajeetrai/medical-cost) 
 
 ---
 
